@@ -1,5 +1,7 @@
 # 2 way SSL with spring boot
 
+https://medium.com/@niral22/2-way-ssl-with-spring-boot-microservices-2c97c974e83
+
 Example client (nt-gateway) and service (nt-ms) code to show how to get 2 way SSL setup with self signed certificate.
 
 ## Getting Started
